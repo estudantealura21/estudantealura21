@@ -1,10 +1,9 @@
-## Hi there 👋
+## Boas vindasao meu perfil🎧
 
-<!--
-**estudantealura21/estudantealura21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvendo scratch e javascript, além do alura
 
-Here are some ideas to get you started:
-
+![](https://media1.tenor.com/m/Cuu-B33YBJcAAAAC/tim%C3%A3o.gif)
+https://media1.tenor.com/m/Cuu-B33YBJcAAAAC/tim%C3%A3o.gif
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
