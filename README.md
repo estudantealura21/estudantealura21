@@ -1,9 +1,10 @@
 ## Boas vindasao meu perfil🎧
-
 meu nome é victor
+
 Estou desenvolvendo scratch e javascript, além do alura
 
 ![](https://media1.tenor.com/m/Cuu-B33YBJcAAAAC/tim%C3%A3o.gif)
+curriculo
 https://media1.tenor.com/m/Cuu-B33YBJcAAAAC/tim%C3%A3o.gif
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
